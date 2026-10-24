@@ -9,10 +9,10 @@ A Bonneter at heart. I capture problems and turn them into tools!
 ## Start here
 
 - [cappy-tools](https://github.com/cappy-dev/cappy-tools) collects small Linux utilities for homelabs, backups, networking, and repository maintenance.
-- [llm-bench-lite](https://github.com/cappy-dev/llm-bench-lite) measures time to first token, throughput, and latency for OpenAI-compatible APIs.
-- [ssh-key-audit](https://github.com/cappy-dev/ssh-key-audit) checks SSH keys, client configuration, and daemon settings for security problems.
+- [llm-bench-lite](https://github.com/cappy-dev/cappy-tools/tree/main/tools/llm-bench-lite) measures time to first token, throughput, and latency for OpenAI-compatible APIs.
+- [ssh-key-audit](https://github.com/cappy-dev/cappy-tools/tree/main/tools/ssh-key-audit) checks SSH keys, client configuration, and daemon settings for security problems.
 - [pi-zero-2-selfhost](https://github.com/cappy-dev/pi-zero-2-selfhost) explores services that fit a Raspberry Pi Zero 2 W with 512 MB of RAM.
-- [dns-torch](https://github.com/cappy-dev/dns-torch) runs DNS, TLS, email, and HTTP header checks from the terminal.
+- [dns-torch](https://github.com/cappy-dev/cappy-tools/tree/main/tools/dns-torch) runs DNS, TLS, email, and HTTP header checks from the terminal.
 - [you-know-ball](https://github.com/cappy-dev/you-know-ball) is a browser game about finishing quotes. Sometimes a project can just be fun.
 
 ## How I work
